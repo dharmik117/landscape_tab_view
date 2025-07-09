@@ -17,8 +17,7 @@ large-scale applications.
 ## Screenshot
 
 Here’s how its look
-
-![Example of landscape_tab_view](screenshots/example1.png)
+<img src="https://raw.githubusercontent.com/dharmik117/landscape_tab_view/master/screenshots/example1.png"/>
 
 ## 🚀 Usage
 
@@ -40,4 +39,4 @@ Add this to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  landscape_tab_view: ^0.0.1
+  landscape_tab_view: ^0.0.3
