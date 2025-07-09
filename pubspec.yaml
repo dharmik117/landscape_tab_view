@@ -1,6 +1,6 @@
 name: landscape_tab_view
 description: "A Flutter package to easily manage landscape views on tablets — ideal for building responsive, split-view UIs like Flipkart, Zomato, and other large-scale apps."
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/dharmik117/landscape_tab_view
 
 environment:
@@ -23,9 +23,8 @@ dev_dependencies:
 flutter:
 
 # To add assets to your package, add an assets section, like this:
-# assets:
-#   - images/a_dot_burr.jpeg
-#   - images/a_dot_ham.jpeg
+ assets:
+   - screenshots/
 #
 # For details regarding assets in packages, see
 # https://flutter.dev/to/asset-from-package
